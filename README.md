@@ -35,6 +35,10 @@ material available:
   - [Computer Science on edX](https://www.edx.org/course/subject/computer-science)
   - [Computing on Khan Academy](https://www.khanacademy.org/computing)
 
+Language specific:
+  - [Programming for Everybody (Getting Started with Python) 2-4h/w](https://www.coursera.org/learn/python) - aims to teach everyone the basics of programming computers
+  - [Google Python Course](https://developers.google.com/edu/python/?hl=en) - for people with a little bit of programming experience who want to learn Python
+
 Eventually you'll almost certainly want to explore some of the theory and
 formal knowledge, but watching lectures might not be the most fun thing to do at
 hack nights, unless you recruit some peers to join you :-)
@@ -49,6 +53,7 @@ try these:
   - [Exercism](http://exercism.io/)
   - [HackerRank](https://www.hackerrank.com/)
   - [CodeChef](https://www.codechef.com/problems/school)
+  - [ProjectEuler](https://projecteuler.net/)
 
 This kind of practice can be a more fun fit for the environment of a hack night,
 so you may want to try studying background material in advance.
